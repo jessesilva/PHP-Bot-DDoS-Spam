@@ -33,7 +33,8 @@ Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negaç
 
           phpBot.php?hash=admin&command=run&flag=1&data=dir.exe
 
- - Kill dependencies:  
+ - Kill dependencies:
+ 
           command = kill.
           flag = 1 (default).
           data = null (default)
