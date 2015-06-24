@@ -7,6 +7,7 @@ Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negaç
 
 ###Functions details...
  - DDoS:
+ 
         command = ddos.
         flag = Attack method: udp, tcp.
         data = IP:PORT.
