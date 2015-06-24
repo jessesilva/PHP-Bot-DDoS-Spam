@@ -1,7 +1,6 @@
 # PHP Bot (DDoS/Spam)
 Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negação de Serviço).
 
-
 Functions...
  DDos, Spam (Perl e PHP), Run command, Kill Perl running.
 
