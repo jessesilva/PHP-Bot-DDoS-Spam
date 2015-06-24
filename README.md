@@ -27,6 +27,7 @@ Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negaç
           phpBot.php?hash=admin&command=spam&flag=1&data=null
 
  - Run file:
+ 
           command = run.
           flag = 1 (default).
           data = Command to run
